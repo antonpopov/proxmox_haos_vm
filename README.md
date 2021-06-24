@@ -1,6 +1,6 @@
 # Proxmox VM with Home Assistant OS
 
-This script will create a new Proxmox VM with the latest version of Home Assistant OS. To create a new VM, run the following in a SSH session or the console from Proxmox interface
+This script will create a new Proxmox VM with the latest version of Home Assistant OS. To create a new VM, run the following from Proxmox shell
 
 ```
 bash -c "$(wget -qLO - https://github.com/tteck/proxmox_haos_vm/raw/master/install.sh)"
