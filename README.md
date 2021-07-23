@@ -1,4 +1,4 @@
-# Proxmox VM with Home Assistant OS
+# Proxmox (6 & 7) VM with Home Assistant OS
 
 To create a new Proxmox VM with the latest version of Home Assistant OS, run the following from Proxmox web shell
 
